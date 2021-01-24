@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: scr/galleries
-  label: Galleries
-  create: all
-  match: "**/*"
-  templates:
-  - galleries
 - type: heading
   label: Content Label
 - type: directory
@@ -20,6 +13,13 @@ sections:
   match: "*.md"
   templates:
   - post
+- type: directory
+  path: scr/galleries
+  label: Galleries
+  create: all
+  match: "**/*"
+  templates:
+  - galleries
 - type: heading
   label: Globals Label
 - type: document
