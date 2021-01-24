@@ -8,10 +8,9 @@ tags:
 image: "/v1611520965/https:/res.cloudinary.com/dwul2p238/image/upload/night-city_xhxbmz.jpg"
 
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is
-all set in the “Body” field as markdown and Eleventy transforms it into a proper
-HTML post. You can also edit the markdown file directly if you prefer not to use
-the CMS.
+Test. Hello from WYSIWYG editor.
+
+A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
 
 How about a `<blockquote>`?
 
@@ -19,15 +18,14 @@ How about a `<blockquote>`?
 
 A list of stuff:
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+* Sed posuere consectetur est at lobortis
+* Aenean lacinia bibendum nulla sed consectetur
+* Sed posuere consectetur est at lobortis
 
 How about an ordered list of stuff:
 
 1. Sed posuere consectetur est at lobortis
 2. Aenean lacinia bibendum nulla sed consectetur
 3. Sed posuere consectetur est at lobortis
-
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
