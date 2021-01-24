@@ -1,4 +1,15 @@
 ---
 label: Galleries
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: The title for the gallery.
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
+  description: Images for the gallery.
