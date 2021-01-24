@@ -13,9 +13,6 @@ sections:
   match: "*.md"
   templates:
   - post
-- type: document
-  path: src/galleries/*.md
-  label: Galleries
 - type: heading
   label: Globals Label
 - type: document
