@@ -14,7 +14,7 @@ sections:
   templates:
   - post
 - type: document
-  path: src/galleries
+  path: src/galleries/*.md
   label: Galleries
 - type: heading
   label: Globals Label
