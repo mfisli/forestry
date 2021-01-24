@@ -5,6 +5,7 @@ tags:
 - demo-content
 - simple-post
 - blog
+image: "/v1611520965/https:/res.cloudinary.com/dwul2p238/image/upload/night-city_xhxbmz.jpg"
 
 ---
 A simple post to demonstrate how a normal blog post looks on Hylia. Content is
