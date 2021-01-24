@@ -13,3 +13,5 @@ fields:
   config: {}
   label: Images
   description: Images for the gallery.
+pages:
+- scr/galleries/gallery-test.md
