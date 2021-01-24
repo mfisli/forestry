@@ -6,11 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Content Label
-- type: document
-  path: src/galleries/*.md
-  label: Galleries
-- type: heading
-  label: Globals Label
 - type: directory
   path: src/posts
   label: Posts
@@ -18,6 +13,11 @@ sections:
   match: "*.md"
   templates:
   - post
+- type: document
+  path: src/galleries/*.md
+  label: Galleries
+- type: heading
+  label: Globals Label
 - type: document
   path: src/_data/navigation.json
   label: Navigation
