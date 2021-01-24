@@ -17,7 +17,7 @@ sections:
   path: src/galleries
   label: Galleries
 - type: heading
-  label: Globals
+  label: Globals Label
 - type: document
   path: src/_data/navigation.json
   label: Navigation
