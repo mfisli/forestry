@@ -21,10 +21,10 @@ sections:
 - type: document
   path: src/_data/tokens.json
   label: Theme settings
-upload_dir: ''
+upload_dir: https://res.cloudinary.com/dwul2p238/image/upload
 public_path: ''
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
